@@ -2,17 +2,17 @@
 
 package = "luaproc"
 
-version = "1.0-3"
+version = "1.0-4"
 
 -- LuaDist source
 source = {
-  tag = "1.0-3",
+  tag = "1.0-4",
   url = "git://github.com/LuaDist-testing/luaproc.git"
 }
 -- Original source
 -- source = {
 --   url = "git://github.com/askyrme/luaproc.git",
---   tag = "1.0-3"
+--   tag = "1.0-4"
 -- }
 
 description = {
@@ -25,7 +25,7 @@ description = {
     execution of the Lua processes and provide support for true hardware
     parallelism.
   ]],
-  homepage = "http://askyrme.github.io/luaproc", 
+  homepage = "https://github.com/askyrme/luaproc", 
   license = "MIT/X11" 
 }
 
