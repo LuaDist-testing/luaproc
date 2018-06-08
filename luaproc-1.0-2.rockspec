@@ -2,17 +2,17 @@
 
 package = "luaproc"
 
-version = "1.0-1"
+version = "1.0-2"
 
 -- LuaDist source
 source = {
-  tag = "1.0-1",
+  tag = "1.0-2",
   url = "git://github.com/LuaDist-testing/luaproc.git"
 }
 -- Original source
 -- source = {
 --   url = "git://github.com/askyrme/luaproc.git",
---   tag = "1.0-1"
+--   tag = "1.0-2"
 -- }
 
 description = {
